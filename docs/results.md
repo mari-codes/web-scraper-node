@@ -8,7 +8,9 @@ https://www.netshoes.com.br/p/camisa-brasil-nike-i-202627-torcedora-pro-feminina
 
 ## API Request
 
+```http
 GET /scrape?url=https://www.netshoes.com.br/p/camisa-brasil-nike-i-202627-torcedora-pro-feminina-amarelo+verde-SGL-051U-046
+```
 
 ### Local
 
