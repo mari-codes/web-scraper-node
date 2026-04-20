@@ -51,6 +51,13 @@ http://localhost:3000/scrape?url=https://www.netshoes.com.br/p/camisa-brasil-nik
 
 ## Desenvolvimento
 
+Clone o repositório:
+
+```bash
+git clone https://github.com/mari-codes/web-scraper-node.git
+cd web-scraper-node
+```
+
 Instalar dependências
 
 ```bash
